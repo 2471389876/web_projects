@@ -1,0 +1,137 @@
+.news {
+    height:600px;
+}
+.news .xi {
+    height: 470px;
+    margin-top: 5px;
+    border-top: 5px solid #d30000;
+    border-bottom: 5px solid #d30000;
+}
+.news_title {
+    height: 150px;
+    margin-top: 20px;
+}
+.news_title span{
+    color: rgb(208, 2, 27); 
+    font-size: 33px;
+    letter-spacing: 0px; 
+    font-weight: 900;
+    margin-left: 150px;
+    padding-top: 20px;
+}
+.news_title .text {
+    font-size: 18px;
+    text-indent:2em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #d30000;
+}
+.news_xi {
+    height: 480px;
+}
+.news_xi img{
+    height: 450px;
+    width: 500px;
+    margin-top: 5px;
+}
+.news_text {
+    width: 700px;
+    height: 450px;
+}
+.news .news_text .first {
+    color:red;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 130px;
+    margin-left: 200px;
+    letter-spacing:4px;
+    display: inline-block;
+}
+.news_text .second {
+    display: inline-block;
+    margin-top: 20px;
+    color:red;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing:4px;
+    margin-left: 110px;
+}
+.main {
+    height: 310px;
+    margin-top: 50px;
+    background-color: rgb(243, 231, 216);
+}
+.content {
+    height: 500px;
+}
+.main .content_title {
+    height: 40px;
+    width: 1200px;
+    background-color: #ce0000;
+}
+.main .content_title span {
+    font-size: 30px;
+    color: #fff;
+    margin-left: 30px;
+    font-family: "楷体","楷体_GB2312";
+}
+.tit {
+    font-size: 22px;
+}
+.txt {
+    font-size: 18px;
+    margin-left: 40px;
+}
+.history .txt {
+    padding-top: 10px;
+}
+.history,.people,.jings {
+    margin-top: 28px;
+    margin-left: 100px;
+}
+.workset {
+    margin-top: 20px;
+    height: 500px;
+}
+.workset .workset_title {
+    height: 40px;
+    width: 1200px;
+    background-color: #ce0000;
+}
+.workset .workset_title span {
+    font-size: 30px;
+    color: #fff;
+    margin-left: 30px;
+    font-family: "楷体","楷体_GB2312";
+}
+.workset_left {
+    width: 500px;
+    height: 400px;
+
+}
+.workset_left img {
+    width: 360px;
+    height: 241px;
+    margin-left: 100px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+.workset_left a {
+    color: #ce0000;
+    font-size: 20px;
+    margin-left: 160px;
+}
+.workset_right {
+    width: 500px;
+    height: 400px;
+}
+.workset_right img {
+    margin-left: 100px;
+    margin-top: 90px;
+    margin-bottom: 30px;
+}
+.workset_right a {
+    color: #ce0000;
+    font-size: 20px;
+    margin-left: 160px;
+}

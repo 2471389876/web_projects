@@ -1,0 +1,22 @@
+.nav {
+    height: 600px;
+    margin-top: 10px;
+}
+.dropdown ul {
+    background-color: #c81623;
+}
+.dropdown ul li{
+    display: inline-block;
+    width: 180px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 16px;
+    margin-left: 200px;
+} 
+.dropdown ul li a{
+    color:#fff;
+    text-align: center;
+}
+.renwu img {
+    margin-left: 80px;
+}
